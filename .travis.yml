@@ -3,7 +3,7 @@ language: cpp
 
 env:
   global:
-    - MAKEFLAGS = "-j 8"
+    - MAKEFLAGS = "-j8"
 
 matrix:
   include:
